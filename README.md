@@ -30,4 +30,4 @@ A Power BI dashboard developed to analyze personal income, expenses, savings, an
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Dashboard.png)
